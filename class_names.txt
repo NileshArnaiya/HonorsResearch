@@ -1,0 +1,4 @@
+{
+    0: "Unstable",
+    1: "Stable"
+}
